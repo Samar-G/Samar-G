@@ -9,22 +9,22 @@
 
 ### 🎬 Movie Recommendation System
 <img align="right" width="100" src="https://img.icons8.com/color/96/000000/popcorn.png"/>
-Generates personalized movie suggestions using collaborative and similarity-based algorithms. Processes and analyzes movie datasets to match user preferences.  
+Generates personalized movie suggestions using collaborative and similarity-based algorithms. Processes and analyzes movie datasets to match user preferences.  <br>
 🔧 <b>Technologies:</b> <i>Python</i>, <i> Data Preprocessing</i>, <i>Recommendation Algorithms</i>.
 
 ### ✍️ Bigram AutoFill GUI
 <img align="right" width="100" src="https://img.icons8.com/color/96/000000/artificial-intelligence.png"/>
-An interactive GUI tool that predicts and autofills text using bigram language models trained on a large corpus.  
+An interactive GUI tool that predicts and autofills text using bigram language models trained on a large corpus.  <br>
 🔧 <b>Technologies:</b><i>Python</i>, <i> Tkinter </i>, <i>Language Modeling</i>.
 
 ### 🩸 Leukemia Detection & Classification
 <img align="right" width="100" src="https://img.icons8.com/color/96/000000/health-book.png"/>
-Analyzes blood samples to detect and classify leukemia types using machine learning, providing a foundation for AI-assisted diagnosis.  
+Analyzes blood samples to detect and classify leukemia types using machine learning, providing a foundation for AI-assisted diagnosis.<br>  
 🔧 <b>Technologies:</b><i>Python</i>, <i> ML Algorithms</i>,<i> Data Preprocessing</i>.  
 
 ### 🧠 American Sign Language Classifier
 <img align="right" width="100" src="https://img.icons8.com/color/96/000000/thumb-up.png"/>
-Classifies ASL gestures from images using convolutional neural networks and image preprocessing pipelines. Supports real-time inference.  
+Classifies ASL gestures from images using convolutional neural networks and image preprocessing pipelines. Supports real-time inference.  <br>
 🔧 <b>Technologies:</b> <i>Python</i>, <i>CNN</i>, <i>OpenCV</i>  
 
 ---
