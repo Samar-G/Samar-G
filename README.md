@@ -14,7 +14,7 @@ Generates personalized movie suggestions using collaborative and similarity-base
 
 ### ✍️ Bigram AutoFill GUI
 <img align="right" width="100" src="https://img.icons8.com/color/96/000000/artificial-intelligence.png"/>
-Interactive GUI tool that predicts and autofills text using bigram language models trained on a large corpus.  
+An interactive GUI tool that predicts and autofills text using bigram language models trained on a large corpus.  
 🔧 <b>Technologies:</b><i>Python</i>, <i> Tkinter </i>, <i>Language Modeling</i>.
 
 ### 🩸 Leukemia Detection & Classification
