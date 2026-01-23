@@ -10,7 +10,7 @@
 ### 🧠 American Sign Language Classifier
 <img align="right" width="100" src="https://img.icons8.com/color/96/000000/thumb-up.png"/>
 Classifies ASL gestures from images using convolutional neural networks and image preprocessing pipelines. Supports real-time inference.  
-🔧 **Technologies:** `Python` `CNN` `OpenCV`  
+🔧 <b>Technologies:</b> <i>Python</i> <i>CNN</i> <i>OpenCV</i>  
 
 ### 🎬 Movie Recommendation System
 <img align="right" width="100" src="https://img.icons8.com/color/96/000000/popcorn.png"/>
