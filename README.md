@@ -19,12 +19,12 @@ An interactive GUI tool that predicts and autofills text using bigram language m
 
 ### 🩸 Leukemia Detection & Classification
 <img align="right" width="100" src="https://img.icons8.com/color/96/000000/health-book.png"/>
-Analyzes blood samples to detect and classify leukemia types using machine learning, providing a foundation for AI-assisted diagnosis.<br>  
+Analyzes microscopic blood samples to detect and classify leukemia types using machine learning and deep learning, providing a foundation for AI-assisted diagnosis.<br>  
 🔧 <b>Technologies:</b><i>Python</i>, <i> ML Algorithms</i>,<i> Data Preprocessing</i>.  
 
 ### 🧠 American Sign Language Classifier
 <img align="right" width="100" src="https://img.icons8.com/color/96/000000/thumb-up.png"/>
-Classifies ASL gestures from images using convolutional neural networks and image preprocessing pipelines. Supports real-time inference.  <br>
+Classifies ASL gestures from images using convolutional neural networks and image preprocessing pipelines. <br>
 🔧 <b>Technologies:</b> <i>Python</i>, <i>CNN</i>, <i>OpenCV</i>  
 
 ---
